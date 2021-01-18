@@ -1,4 +1,6 @@
 # Titanic-Kaggle
+Edit: This was created in my first year of learning machine learning and it was mostly to learn how to perform machine learning using R.
+
 Trying to predict who lived and died on the Titanic
 
 The first file "Titanic.R" is my first attempt without seeking any tutorials or help. That got me a score of 0.78469, after multiple attempts ofcourse
